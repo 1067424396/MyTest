@@ -1,5 +1,5 @@
 # MyTest
-test	
+project include MyTest widget
 
   
   
